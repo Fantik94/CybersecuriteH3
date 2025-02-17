@@ -1,0 +1,50 @@
+{
+    "host": "localhost",
+    "ports": [
+        {
+            "port": 8004,
+            "state": "closed"
+        },
+        {
+            "port": 8009,
+            "state": "closed"
+        },
+        {
+            "port": 8005,
+            "state": "closed"
+        },
+        {
+            "port": 8008,
+            "state": "closed"
+        },
+        {
+            "port": 8006,
+            "state": "closed"
+        },
+        {
+            "port": 8002,
+            "state": "closed"
+        },
+        {
+            "port": 8003,
+            "state": "closed"
+        },
+        {
+            "port": 8007,
+            "state": "closed"
+        },
+        {
+            "port": 8001,
+            "state": "closed"
+        },
+        {
+            "port": 8010,
+            "state": "closed"
+        },
+        {
+            "port": 8000,
+            "state": "open",
+            "process": {}
+        }
+    ]
+}
